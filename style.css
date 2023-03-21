@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar{
+    border-style: solid;
+    color: black;
+    background-color: black;
+   
+}
+
+.navbar0{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+margin-right: 2.5%;
+}
+
+.navbar2 a {
+float: right;
+font-size: 15px;
+}
+.navbar1{
+    font-size: 20px;
+}
+
+.oksa{
+    text-align: center;
+}
+
+
+.kepek{
+    text-align: center;
+
+}
+
+.kepek img{
+    width: 30%;
+    padding: 2px;
+}
+
+.kepek img:hover{
+    transition: 500ms;
+    border-radius: 5%;
+}
